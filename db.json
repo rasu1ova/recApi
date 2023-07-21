@@ -1,0 +1,52 @@
+{
+  "articles" : [
+    {
+      "id": 1,
+      "name": "John Kennedy",
+      "date":"15-07-2023",
+      "img": "https://i.ebayimg.com/00/s/MTE3N1gxNTAw/z/hlkAAOSwN35e35ht/$_57.JPG?set_id=8800005007",
+      "articleImg": "https://basket-05.wb.ru/vol932/part93218/93218527/images/big/1.jpg",
+      "articleImgAlt": "Sample Menu from French Restaurant. Photo taken by Zinnia",
+      "articleTitle":"A Fruit Salad That Isn’t Sad",
+      "articleMeal":"https://i.lefood.menu/wp-content/uploads/w_images/2021/09/recept-5018-1240x826.jpg",
+      "article":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam eum est suscipit, optio voluptas voluptates hic repellendus itaque consequatur vero explicabo qui perspiciatis doloribus exercitationem corrupti! Odit animi consectetur officiis fuga, rerum ratione reiciendis ab debitis. Cupiditate quasi non maxime a fuga, ad consectetur deleniti delectus quas quidem quisquam enim?    "
+    },
+    {
+      "id": 2,
+      "name": "Sarah Hansen",
+      "date":"15-07-2023",
+      "img": "https://avatars.mds.yandex.net/get-mpic/5287649/img_id6182351419576969946.jpeg/orig",
+      "articleImg": "https://static.tildacdn.com/tild3233-3932-4564-b264-393962333037/T8TglIRrTFrxu7UW9OBV.jpg",
+      "articleImgAlt": "Sample Menu from French Restaurant. Photo taken by Zinnia",
+      "articleTitle":"A Fruit Juice That Isn’t Sad",
+      "articleMeal":"https://www.antidote.sg/wp-content/uploads/2018/05/1121-scaled.jpg",
+      "article":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam eum est suscipit, optio voluptas voluptates hic repellendus itaque consequatur vero explicabo qui perspiciatis doloribus exercitationem corrupti! Odit animi consectetur officiis fuga, rerum ratione reiciendis ab debitis. Cupiditate quasi non maxime a fuga, ad consectetur deleniti delectus quas quidem quisquam enim?    "
+    },
+    {
+      "id": 3,
+      "name": "Jeck Ken",
+      "date":"15-07-2023",
+      "img": "https://images.prom.ua/1599652992_w640_h640_vafelnitsa-buterbrodnitsa-sendvichnitsa.jpg",
+      "articleImg": "https://images4.alphacoders.com/820/thumb-1920-820281.jpg",
+      "articleImgAlt": "Sample Menu from French Restaurant. Photo taken by Zinnia",
+      "articleTitle":"A Fruit Cupcake That Isn’t Sad",
+      "articleMeal":"https://avatars.mds.yandex.net/i?id=221d573433d4cc7e337638d2148ed423870ac2fb-9136745-images-thumbs&n=13",
+      "article":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam eum est suscipit, optio voluptas voluptates hic repellendus itaque consequatur vero explicabo qui perspiciatis doloribus exercitationem corrupti! Odit animi consectetur officiis fuga, rerum ratione reiciendis ab debitis. Cupiditate quasi non maxime a fuga, ad consectetur deleniti delectus quas quidem quisquam enim?    "
+    },
+    {
+      "id": 4,
+      "name": "Anna Hans",
+      "date":"15-07-2023",
+      "img": "https://avatars.mds.yandex.net/get-mpic/5146425/img_id250349531408256400.jpeg/orig",
+      "articleImg": "https://basket-05.wb.ru/vol932/part93222/93222423/images/big/1.jpg",
+      "articleImgAlt": "Sample Menu from French Restaurant. Photo taken by Zinnia",
+      "articleTitle":"A Vegetable Salad That Isn’t Sad",
+      "articleMeal":"https://sun9-48.userapi.com/impg/WtM1kpFws7OCPbR4pdgaNhZU-RQs8bt0LRzvog/xaTWg4WHgk4.jpg?size=1440x960&quality=96&sign=1c15b9ada3d50481b8de71b6c4ee8d2a&c_uniq_tag=vu4iWRqhwT6oqHzCabkr32bPY28BbPDgkrJxCjpQ5XQ&type=album",
+      "article":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam eum est suscipit, optio voluptas voluptates hic repellendus itaque consequatur vero explicabo qui perspiciatis doloribus exercitationem corrupti! Odit animi consectetur officiis fuga, rerum ratione reiciendis ab debitis. Cupiditate quasi non maxime a fuga, ad consectetur deleniti delectus quas quidem quisquam enim?    "
+    }
+  ]
+}
